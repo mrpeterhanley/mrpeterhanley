@@ -5,7 +5,7 @@
 <br>
 ✉️ hanley.peter@gmail.com<br>
 🎨 Personal Website & Portfolio: https://mrpeterhanley.com/<br>
-💼 LinkedIn: https://www.linkedin.com/in/mrpeterhanley/
+💼 LinkedIn: https://www.linkedin.com/in/mrpeterhanley/<br>
 <br>
 💬 Favorite quotes:<br>
 1️⃣ "Success is the ability to go from one failure to another with no loss of enthusiam" - Winston Churchill<br>
