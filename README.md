@@ -11,4 +11,5 @@
 💬 *"Success is the ability to go from one failure to another with no loss of enthusiam"* - Winston Churchill<br>
 💬 *"Never argue with stupid people, they will drag you down to their level and then beat you with experience"* - Mark Twain<br>
 <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrpeterhanley&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=mrpeterhanley&show_icons=true" alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpeterhanley" alt="Most used languages"/>
