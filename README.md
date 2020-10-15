@@ -1,4 +1,6 @@
 ### Hi there, I'm Peter! 👋 I'm looking for a new challenge as a front-end web developer 💪<br>
+![](https://komarev.com/ghpvc/?username=mrpeterhanley)<br>
+<br>
 :heart: I love building mobile-responsive, visually pleasing & user friendly websites<br>
 ✨ Favorite frameworks / techologies: React & AWS Serverless!<br>
 🌱 I’m currently learning SASS & Node.js<br>
