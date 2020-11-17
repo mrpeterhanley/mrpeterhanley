@@ -1,7 +1,7 @@
 ### Hi there, I'm Peter! 👋 I'm looking for a new challenge as a front-end developer 💪<br>
 :heart: I love building mobile-responsive, visually pleasing & user friendly websites<br>
 ✨ Favorite frameworks / techologies: React & AWS Serverless!<br>
-🌱 I’m currently learning to use Gatsby & Node.js<br>
+🌱 I’m currently learning to use Gatsby & GraphQL<br>
 <br>
 ✉️ hanley.peter@gmail.com<br>
 🎨 Personal Website & Portfolio: https://mrpeterhanley.com/<br>
