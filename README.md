@@ -7,6 +7,6 @@
 🎨 Personal Website & Portfolio: https://mrpeterhanley.com/<br>
 💼 LinkedIn: https://www.linkedin.com/in/mrpeterhanley/<br>
 <br>
-🧑 Favorite quotes:<br>
+👱‍♂️ Favorite quotes:<br>
 💬 *"Success is the ability to go from one failure to another with no loss of enthusiam"* - Winston Churchill<br>
 💬 *"Never argue with stupid people, they will drag you down to their level and then beat you with experience"* - Mark Twain<br>
