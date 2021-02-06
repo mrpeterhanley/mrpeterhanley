@@ -1,4 +1,4 @@
-### Hi there, I'm Peter! 👋 I'm looking for a new challenge as a front-end developer 💪<br>
+### Hi there, I'm Peter! 👋<br>
 :heart: I love building mobile-responsive, visually pleasing & user friendly websites<br>
 ✨ Favorite frameworks / techologies: Gatsby.js & AWS Serverless!<br>
 🌱 I’m currently learning to use React & GraphQL<br>
