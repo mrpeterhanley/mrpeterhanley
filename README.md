@@ -4,7 +4,6 @@
 🌱 I’m currently learning to use React & GraphQL<br>
 <br>
 ✉️ hanley.peter@gmail.com<br>
-🎨 Personal Website & Portfolio: https://mrpeterhanley.com/<br>
 💼 LinkedIn: https://www.linkedin.com/in/mrpeterhanley/<br>
 <br>
 👱‍♂️ Favorite quotes:<br>
