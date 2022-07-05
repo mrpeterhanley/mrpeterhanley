@@ -1,4 +1,4 @@
-### Hi there, I'm Peter! 👋<br>
+### Hi there, I'm Peter! 👋
 <br>
 👱‍♂️ Favorite quotes:<br>
 💬 *"Success is the ability to go from one failure to another with no loss of enthusiam"* - Winston Churchill<br>
